@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I am MD. Nur Hossain Repon
-### Professional Android Apps and Web app developer with Laravel, MERN stack, and React.
+### I am MD. Nur Hossain Repon.
+### Professional Android Apps Developer and Web Apps Developer with Laravel, MERN stack, and React.
 
 <!--
 **Nhrepon/NHRepon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
