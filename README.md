@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Nur Hossain Repon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-### Professional Android Apps Developer and Web Apps Developer with Laravel, MERN stack, and React.
+### Professional Web Apps Developer with MERN stack, React, and Android Apps Developer.
 
 
-<!--  -->A
+<!--  -->
 
 
 
@@ -35,9 +35,9 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%232370ED.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%2300599C.svg?style=for-the-badge&logo=php%2B%2B&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
     
@@ -51,7 +51,7 @@
     
 - **Back-End Development**:
 
-   ![NodeJs](https://img.shields.io/badge/nodejs%20-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+   ![Node JS](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?style=for-the-badge&logo=node&logoColor=white)
    ![Express](https://img.shields.io/badge/express%20-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![PHP](https://img.shields.io/badge/php%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
