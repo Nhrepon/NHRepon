@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi , I'm Nur Hossain Repon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-### Professional Web Apps Developer with MERN stack, React, and Android Apps Developer.
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%011509ff&size=28&center=true&vCenter=true&width=600&height=100&lines=Web+Apps+Developer+with;MERN+stack;MongoDB;ExpressJs;NodeJs;ReactJs;Android+Apps+Developer;Competitive+Programmer;Expert+on+Problem+Solving;Always+learning+new+things"></a>
+</h1>
 
 
 <!--  -->
@@ -178,11 +179,24 @@
 <br>
 <br>
 
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=nhrepon&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</div>
+<br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
 <div align='center'>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
+<br>
+<br>
+<br>
 <br>
 <br>
 
