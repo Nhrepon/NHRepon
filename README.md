@@ -116,14 +116,14 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Nhrepon/NHRepon/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 <br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center"> 
+<div align="center " style="display:flex; flex-direction:row; justify-content:space-evenly"> 
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
