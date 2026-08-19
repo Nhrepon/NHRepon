@@ -9,7 +9,7 @@
 <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-black?style=for-the-badge" alt="English"/></a>
 <a href="./README.bn.md"><img src="https://img.shields.io/badge/🇧🇩_বাংলা-2DBE60?style=for-the-badge" alt="Bangla"/></a>
 
-<h1>হ্যালো, আমি নুর হোসেন রিপন 👋</h1>
+<h1>হ্যালো, আমি মো: নুর হোসেন রিপন 👋</h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DBE60&center=true&vCenter=true&width=650&lines=JavaScript+%2F+TypeScript+ডেভেলপার;MERN+%2B+Next.js+ওয়েব+আ্যপলিকেসান;React.js+%2B+React+Native+ডেভেলপার;ক্রস-প্ল্যাটফর্ম+%26+ওয়েব+অ্যাপ+বিল্ডার;সবসময়+শিখছি%2C+সবসময়+বানাচ্ছি" alt="Typing SVG" />
@@ -37,11 +37,11 @@
 
 ## 🧰 টেক স্ট্যাক
 
-**ওয়েব:** React, Next.js, TypeScript, Tailwind CSS
-**মোবাইল:** React Native, Expo, React Navigation
-**ব্যাকএন্ড:** Node.js, Express, NextJS
-**ডেটাবেস:** MongoDB, MySQL, Firebase
-**ইন্টারন্যাশনালাইজেশন:** i18next, react-i18next, next-i18next, Intl API, RTL সাপোর্ট
+- **ওয়েব:** React, Next.js, TypeScript, Tailwind CSS
+- **মোবাইল:** React Native, Expo, React Navigation
+- **ব্যাকএন্ড:** Node.js, Express, NextJS
+- **ডেটাবেস:** MongoDB, MySQL, Firebase
+- **ইন্টারন্যাশনালাইজেশন:** i18next, react-i18next, next-i18next, Intl API, RTL সাপোর্ট
 
 *(সম্পূর্ণ ব্যাজ-ভিত্তিক তালিকার জন্য [English README](./README.md) দেখুন)*
 
