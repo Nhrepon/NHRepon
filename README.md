@@ -5,22 +5,31 @@
 </div>
 <div align="center">
 
+<img src="https://github.com/nhrepon.png?size=180" width="150" alt="Md. Nur Hossain Repon" style="border-radius:50%;"/>
+
 <!-- Language Switcher -->
+<br><br>
 <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-2DBE60?style=for-the-badge" alt="English"/></a>
 <a href="./README.bn.md"><img src="https://img.shields.io/badge/🇧🇩_বাংলা-black?style=for-the-badge" alt="Bangla"/></a>
 
 <h1>Hi, I'm Md. Nur Hossain Repon 👋</h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DBE60&center=true&vCenter=true&width=650&lines=JavaScript+%2F+TypeScript+Developer;Next.js+Full+Stack+Web+Application;React.js+%2B+React+Native+Developer;Cross-Platform+%26+Web+App+Builder;Building+for+a+global+%2C+multilingual+web;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DBE60&center=true&vCenter=true&width=650&lines=JavaScript+%2F+TypeScript+Developer;Next.js+Full+Stack+Web+Applications;React.js+%2B+React+Native+Developer;Cross-Platform+%26+Web+App+Builder;Building+for+a+global%2C+multilingual+web;Available+for+freelance+%26+full-time+roles" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://www.nhrepon.com" target="_blank"><b>🌐 nhrepon.com</b></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-2DBE60?style=flat-square" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Based_in-Bangladesh-black?style=flat-square" alt="location"/>
+  <img src="https://komarev.com/ghpvc/?username=nhrepon&label=Profile%20Views&color=2DBE60&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/nhrepon?label=Followers&style=flat-square&color=2DBE60" alt="followers"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nhrepon&label=Profile%20Views&color=2DBE60&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/nhrepon?label=Followers&style=flat-square&color=2DBE60" alt="followers"/>
+<p>
+  <a href="https://www.nhrepon.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-nhrepon.com-2DBE60?style=for-the-badge" alt="portfolio"/></a>
+  <a href="mailto:nurhossainrepon7248@gmail.com"><img src="https://img.shields.io/badge/✉️_Hire_Me-EA4335?style=for-the-badge" alt="hire me"/></a>
+  <a href="https://www.nhrepon.com/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-black?style=for-the-badge" alt="resume"/></a>
+</p>
 
 </div>
 
@@ -29,7 +38,9 @@
 ## 📑 Table of Contents
 
 - [About Me](#-about-me)
+- [What I Offer](#-what-i-offer)
 - [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-stats)
 - [Connect With Me](#-connect-with-me)
 
@@ -40,10 +51,58 @@
 - 🚀 A **JavaScript/TypeScript-first** developer specializing in the **MERN + Next.js** stack
 - 📱 Building **cross-platform mobile apps** with **React Native** alongside web apps in **React & Next.js**
 - 🌍 Focused on building apps that are **robust, accessible, and internationalization-ready** (i18n/l10n, RTL support)
-- 🛠️ End-to-end product development: **Node.js**, **Express**, **MongoDB**, **MySql**
+- 🛠️ End-to-end product development: **Node.js**, **Express**, **MongoDB**, **MySQL**
 - 🌱 Currently deepening **TypeScript**, **Next.js App Router**, and **React Native + Expo**
 - 💡 Enjoy solving problems through **competitive programming**
+- 🤝 Open to **freelance projects**, **contract work**, and **full-time opportunities**
 - 🔗 Portfolio: [nhrepon.com](https://www.nhrepon.com)
+
+<br>
+
+## 💼 What I Offer
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🖥️ Web Development**
+Full-stack web apps with React, Next.js & Node.js — from landing pages to complex dashboards.
+
+</td>
+<td width="33%" valign="top">
+
+**📱 Mobile Development**
+Cross-platform iOS/Android apps with React Native & Expo, sharing logic with your web app.
+
+</td>
+<td width="33%" valign="top">
+
+**🔌 API & Backend**
+REST APIs, database design (MongoDB/MySQL), auth, and third-party integrations.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🌍 Internationalization**
+Multi-language, RTL-ready apps using i18next/next-i18next for global-ready products.
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ WordPress & CMS**
+Custom WordPress themes/plugins and CMS-driven sites for content-heavy businesses.
+
+</td>
+<td width="33%" valign="top">
+
+**🔧 Maintenance & Support**
+Bug fixes, performance tuning, code reviews, and ongoing support for existing apps.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -77,17 +136,17 @@
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js API Routes](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Other Languages
+### CMS & Other Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,6 +159,25 @@
 
 <br>
 
+## 🚀 Featured Projects
+
+> ✏️ **Note:** replace these placeholder rows with your real repos, live links, and screenshots — recruiters and clients check this section first.
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Project One** | A medical device service provider company explore their digital presence | Next.js, Prisma, MongoDB | [Live](https://rhythmmedicalint.com/) · [Code](#) |
+| **Project Two** | A personal portfolia web application | Next.js, TypeScript, Sqlite | [Live](https://nhrepon.com/) · [Code](#) |
+| **Project Three** | A tally ERP based business solution service provider | Wordpress, theme develop | [Live](https://properwaysolution.com/) · [Code](#) |
+
+<div align="center">
+
+<!-- Optional: pin your best repos automatically instead of a manual table -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhrepon&repo=YOUR_REPO_NAME&theme=react&hide_border=true" alt="Pinned repo"/>
+
+</div>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,6 +187,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhrepon&theme=react&hide_border=true" alt="GitHub Streak" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhrepon&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -133,4 +215,3 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=nhrepon&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25px" width="160px"/>
 </div>
-
