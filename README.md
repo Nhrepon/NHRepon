@@ -9,7 +9,7 @@
 <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-2DBE60?style=for-the-badge" alt="English"/></a>
 <a href="./README.bn.md"><img src="https://img.shields.io/badge/🇧🇩_বাংলা-black?style=for-the-badge" alt="Bangla"/></a>
 
-<h1>Hi, I'm Nur Hossain Repon 👋</h1>
+<h1>Hi, I'm Md. Nur Hossain Repon 👋</h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DBE60&center=true&vCenter=true&width=650&lines=JavaScript+%2F+TypeScript+Developer;Next.js+Full+Stack+Web+Application;React.js+%2B+React+Native+Developer;Cross-Platform+%26+Web+App+Builder;Building+for+a+global+%2C+multilingual+web;Always+shipping%2C+always+learning" alt="Typing SVG" />
